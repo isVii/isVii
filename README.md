@@ -1,13 +1,10 @@
-# Who am I ?
-👦 My name is Viibey, I am a young developer.
+<h1 align="center">Hi 👋, I'm Viibey</h1>
+<h3 align="center">I'm a young developer</h3>
 
-# What language do I know?
-👨‍💻 I am a Java & JavaScript developer.
+- 🔭 I’m currently working on [Sindoria](@SindoriaFR)
 
-# Software used ?!
-💻 I mainly use Intellij, PhpStorm, WebStorm and VisualStudioCode.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="WebStorm" width="26px" src"https://camo.githubusercontent.com/f48183a9c31e474a81dcb3e0496cb430d18118851ad593b8859a45620f4830d3/68747470733a2f2f7a7570696d616765732e6e65742f75702f32312f30362f6567706c2e706e67"
- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isviibey&show_icons=true&locale=en&layout=compact" alt="isviibey" /></p>
