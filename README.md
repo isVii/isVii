@@ -1,10 +1,27 @@
-<h1 align="center">Hi 👋, I'm Viibey</h1>
-<h3 align="center">I'm a young developer</h3>
+### Hi there 👋 I'm Viibey !
 
-- 🔭 I’m currently working on [Sindoria](@SindoriaFR)
+ 
+# Information:
+ 
+ - 🎓 16 years
+ - 🇫🇷 French
+
+# Project
+
+-  Admin & Developper of @SindoriaFR   <a href="https://discord.gg/J8tGx26szs"><img alt="Sindoria" title="Sindoria" src="https://img.shields.io/badge/-Sindoria-orange"/></a>
+-  Developper of @KrakoziaMC   <a href="https://discord.gg/ArFHVeGmNf"><img alt="Krakozia" title="Krakozia" src="https://img.shields.io/badge/-Krakozia-yellow"/></a>
+-  Developper of @Coldaria1   <a href="https://discord.gg/GxXTpamAUU"><img alt="Sindoria" title="Sindoria" src="https://img.shields.io/badge/-Coldaria-blue"/></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+# Language | Ide | Frameworks | Tools
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isviibey&show_icons=true&locale=en&layout=compact" alt="isviibey" /></p>
+
+<img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
+<img height="30" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
