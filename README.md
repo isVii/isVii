@@ -9,8 +9,7 @@
 # Project
 
 -  Admin & Developper of @SindoriaFR   <a href="https://discord.gg/J8tGx26szs"><img alt="Sindoria" title="Sindoria" src="https://img.shields.io/badge/-Sindoria-orange"/></a>
--  Developper of @KrakoziaMC   <a href="https://discord.gg/ArFHVeGmNf"><img alt="Krakozia" title="Krakozia" src="https://img.shields.io/badge/-Krakozia-yellow"/></a>
--  Developper of @Coldaria1   <a href="https://discord.gg/GxXTpamAUU"><img alt="Sindoria" title="Sindoria" src="https://img.shields.io/badge/-Coldaria-blue"/></a>
+-  Developer @EarthSky-Mc    <a href="https://discord.gg/ey9KEaBNxj"><img alt="EarthSky" title="EarthSky" src="https://img.shields.io/badge/-EarthSky-orange"/></a>
 
 
 # Language | Ide | Frameworks | Tools
