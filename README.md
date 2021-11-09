@@ -9,7 +9,6 @@
 # Project
 
 -  Owner & Developer of @SindoriaFR   <a href="https://discord.gg/J8tGx26szs"><img alt="Sindoria" title="Sindoria" src="https://img.shields.io/badge/-Sindoria-orange"/></a>
--  Developer @EarthSky-Mc    <a href="https://discord.gg/ey9KEaBNxj"><img alt="EarthSky" title="EarthSky" src="https://img.shields.io/badge/-EarthSky-orange"/></a>
 
 
 # Language | Ide | Frameworks | Tools
