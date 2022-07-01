@@ -6,7 +6,7 @@ I'm learn AdonisJS & VueJS
 # 🚀 Languages | Framework
 - [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
-- [Java] (https://www.java.com/fr/)
+- [Java](https://www.java.com/fr/)
 - [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 - [TS](https://www.typescriptlang.org/)
 - [AdonisJS](https://www.adonisjs.com/)
