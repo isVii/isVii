@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Viibey !
+# Hi there 👋 I'm Vii !
 
 My name is Quentin, i'm 17 years old. I'm learnig about the development since 2 years, i'm currenty Java, JavaScript & TypeScript developer.
 I'm learn AdonisJS & VueJS
